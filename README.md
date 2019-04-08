@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This is a my first portfolio.
-I am using Bootstrap 4.
+A portfolio using Bootstrap 4.
 
 ## Copyright and License
 

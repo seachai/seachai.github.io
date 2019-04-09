@@ -2,12 +2,11 @@
 
 ## Introduction
 
-<<<<<<< HEAD
-A portfolio using Bootstrap 4.
-=======
-This is a my first portfolio.
-I am using Bootstrap 4.
->>>>>>> added a project
+A simple portfolio
+===================
+- Using Bootstrap 4
+- Responsive design
+- Ability to showcase portfolio projects
 
 ## Copyright and License
 

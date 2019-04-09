@@ -37,6 +37,7 @@
     transition: background-color 0.3s ease-in-out;
     .navbar-brand {
       padding: .5rem 0;
+<<<<<<< HEAD
       color: fade-out($white, .5);
     }
     .nav-link {
@@ -45,6 +46,16 @@
       color: fade-out($white, .5);
       &:hover {
         color: fade-out($white, .25);
+=======
+      color: fade-out($white, .3);
+    }
+    .nav-link {
+      transition: all 0.2s ease-in-out;
+      padding: 2rem 1.5rem;
+      color: fade-out($white, .1);
+      &:hover {
+        color: fade-out($white, .5);
+>>>>>>> added a project
       }
       &:active {
         color: white;
